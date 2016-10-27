@@ -1,6 +1,8 @@
 # SQL-Blob-Inserter
 Development utility for inserting blobs into SQL database.
 
+You can download this application from the [Releases](https://github.com/cxminer/SQL-Blob-Inserter/releases).
+
 ## Usage
 Enter connection information into SQL Server field, click Connect, write SQL query, define name of BLOB parameter - must be prefixed with `@`, choose a file to insert and click execute. Application will inform you how many records were affected.
 
